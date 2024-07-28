@@ -5,13 +5,9 @@
 
 ## 👨🏽‍💻 About Myself
 
-- 🔭 I’m currently working on [Amazona](https://amazona.onrender.com/)
-
 - 🌱 I’m currently learning **Servlet, JSP, Spring, Spring Boot**
 
 - 👯 I’m looking to collaborate on [recipe-hub](https://github.com/uksaha77/recipe-hub)
-
-- 👨‍💻 All of my projects are available at [https://portfolio-psi-ivory-50.vercel.app/](https://portfolio-psi-ivory-50.vercel.app/)
 
 - 💬 Ask me about **CPP, Java, React**
 
