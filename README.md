@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **habibullah.howlader@bjitacademy.com**
 
-- 📄 Know about my experiences [https://portfolio-psi-ivory-50.vercel.app/](https://portfolio-psi-ivory-50.vercel.app/)
-
 - ⚡ Fun fact **I love Mixed Martials Arts & Sometimes I do practise BJJ.**
 
 ## 💻 Work Experience
