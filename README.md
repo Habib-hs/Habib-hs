@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/habibullah-hs/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/mhhs/)
 
-## Little Bit About Me 🚀
+## Little Bit About Meself 🚀
 
 Software Engineer at BJIT Limited with expertise in Java Spring ecosystem and competitive programming. Passionate about solving complex problems and building scalable applications
 
