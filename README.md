@@ -10,7 +10,7 @@ Software Engineer at BJIT Limited with expertise in Java Spring ecosystem and co
 
   🔭 I’m currently working on an PDM Enterprise Application & preparing tools for internal erp data migration. 
 
-  🌱 I’m currently learning Advanced Java Eco System and Focusing on Backend engineering and System Design.
+  🌱 I’m currently learning Advanced Java Eco System and Focusing on Backend engineering & System Design.
 
 
 ## 🛠️ Tech Stack
