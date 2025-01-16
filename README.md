@@ -6,7 +6,7 @@
 
 ## Little Bit About Meself 🚀
 
-Software Engineer at BJIT Limited with expertise in Java Spring ecosystem and competitive programming . Passionate about solving complex problems and building scalable applications
+Software Engineer at BJIT Limited with expertise in Java Spring ecosystem and competitive programming. Passionate about solving complex problems and building scalable applications
 
   🔭 I’m currently working on an PDM Enterprise Application & preparing tools for internal erp data migration. 
 
